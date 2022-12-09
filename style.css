@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+}
+
+img {
+    text-align: center;
+    width: 280px;
+    height: 280px;
+}
+
+.test_image_and_result {
+    background-color: white;
+    padding: 20px;
+    margin: 20px;
+}
